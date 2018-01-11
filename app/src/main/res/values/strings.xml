@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Material Me</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <string-array name="sports_description">
+        <item>Baseball is a bat-and-ball game played between two teams of nine players each, who take turns batting and fielding. The batting team attempts to score runs by hitting a ball that is thrown by the opposing team\'s pitcher with a bat swung by the batter, then running counter-clockwise around a series of four bases: first, second, third, and home plate. A run is scored when a player advances around the bases and returns to home plate.</item>
+        <item>Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are \"singles\" (with one player per side) and \"doubles\" (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side\'s half of the court.</item>
+        <item>Basketball is a non-contact sport played on a rectangular court. While most often played as a team sport with five players on each side, three-on-three, two-on-two, and one-on-one competitions are also common. The objective is to shoot a ball through a hoop 18 inches (46 cm) in diameter and 10 feet (3.048 m) high that is mounted to a backboard at each end of the court. The game was invented in 1891 by Dr. James Naismith, who would be the first basketball coach of the Kansas Jayhawks, one of the most successful programs in the game\'s history.</item>
+        <item>Bowling refers to a series of sports or leisure activities in which a player rolls or throws a bowling ball towards a target. It is one of the major forms of throwing sports. In pin bowling variations, the target is usually to knock over pins at the end of a lane. When all the pins are knocked down on the first roll, this is a strike. In target variations, the aim is usually to get the ball as close to a mark as possible. The pin version of bowling is often played on a flat wooden or other synthetic surface (which can be oiled in different patterns for different techniques),[1] while in target bowling, the surface may be grass, gravel or a synthetic surface.[2] The most common types of pin bowling include ten-pin, nine-pin, candlepin, duckpin and five-pin bowling, while in target bowling, bowls, skittles, kegel, bocce, carpet bowls, p\u00E9tanque, and boules, both indoor and outdoor varieties are popular. Today the sport of bowling is played by 100 million people in more than 90 countries worldwide (including 70 million in the United States),[3] and continues to grow through entertainment media such as video games for home consoles and handheld devices.[4]</item>
+        <item>Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport.[1] Persons engaged in cycling are referred to as \"cyclists\",[2] \"bikers\",[3] or less commonly, as \"bicyclists\".[4] Apart from two-wheeled bicycles, \"cycling\" also includes the riding of unicycles, tricycles, quadracycles, recumbent and similar human-powered vehicles (HPVs).\r\nBicycles were introduced in the 19th century and now number approximately one billion worldwide.[5] They are the principal means of transportation in many parts of the world.</item>
+        <item>Golf is a club and ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.\r\nGolf, unlike most ball games, cannot and does not utilize a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. The game at the highest level is played on a course with an arranged progression of 18 holes, though recreational courses can be smaller, usually 9 holes. Each hole on the course must contain a tee box to start from, and a putting green containing the actual hole or cup (4.25 inches in diameter). There are other standard forms of terrain in between, such as the fairway, rough (long grass), sand traps (or \"bunkers\"), and various hazards (water, rocks, fescue) but each hole on a course is unique in its specific layout and arrangement.</item>
+        <item>Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions[1]). This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion.[2] A characteristic feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity.[3] The term running can refer to any of a variety of speeds ranging from jogging to sprinting.</item>
+        <item>Soccer is a family of team sports that involve, to varying degrees, kicking a ball with the foot to score a goal. Unqualified, the word football is understood to refer to whichever form of football is the most popular in the regional context in which the word appears. Sports commonly called \'football\' in certain places include: association football (known as soccer in some countries); gridiron football (specifically American football or Canadian football); Australian rules football; rugby football (either rugby league or rugby union); and Gaelic football.[1][2] These different variations of football are known as football codes.</item>
+        <item>Swimming is an individual or team sport that involves using arms and legs to move the body through water. Typically, the sport takes place in pools or in open-water (e.g., in a sea or lake). Competitive swimming is one of the most popular Olympic sports,[1] with events in butterfly, backstroke, breaststroke, freestyle, and individual medley. In addition to these individual events, swimmers also take part in relays. Swimming each stroke requires specific techniques, and in competition, there are specific regulations concerning the acceptable form for different strokes.[2] There are also rules put in place to regulate what types of swimsuits are allowed at competitions. Although it is possible for competitive swimmers to incur several injuries from the sport, there are also multiple health benefits associated with the sport</item>
+        <item>Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using a small bat. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions. Spinning the ball alters its trajectory and limits an opponent\'s options, giving the hitter a great advantage.</item>
+        <item>Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent\'s court. The object of the game is to play the ball in such a way that the opponent is not able to play a valid return. The player who is unable to return the ball will not gain a point, while the opposite player will.</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string name="generic_text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+</resources>
